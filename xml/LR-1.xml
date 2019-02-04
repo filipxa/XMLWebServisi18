@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lekarsi_recept bar_kod="0000000010025">
+    <podaci_o_zdravstvenoj_ustanovi>
+        <naziv></naziv>                 <!--1-->
+    </podaci_o_zdravstvenoj_ustanovi>       
+    
+    <podaci_o_osiguranom_licu>
+        <prezime_i_ime></prezime_i_ime>  <!--2-->
+        <datum_rodjenja></datum_rodjenja>  <!--3-->
+        <osnov_oslobadjanja_od_participacije></osnov_oslobadjanja_od_participacije>  <!--4-->
+        <broj_zdravstvene_knjizice></broj_zdravstvene_knjizice>  <!--5-->
+        <drzava></drzava>                                   <!--6-->
+        <broj_kartona></broj_kartona>                          <!--8-->
+        
+    </podaci_o_osiguranom_licu>
+    
+    <podaci_lekaru>
+        <potpis_i_stambilj></potpis_i_stambilj>   <!---->
+        <id_broj></id_broj>               <!--9-->
+    </podaci_lekaru>
+   
+    <recept></recept>         
+    
+    <dijagnoza></dijagnoza>                        <!--11-->
+    
+    <podaci_o_propisanom_leku> 
+        <datum></datum>                            <!--7-->
+        <sifra></sifra>                             <!--10-->
+    </podaci_o_propisanom_leku>
+    
+    <podaci_o_izdatom_leku>
+        <datum></datum>     <!--13-->
+        <sifra></sifra>      <!--14-->
+        <kolicina></kolicina>                    <!--16-->
+        <redni_broj></redni_broj>                 <!--15-->
+    </podaci_o_izdatom_leku>
+    
+    <potpis_farmaceuta></potpis_farmaceuta>
+    <potpis_primaoca></potpis_primaoca>
+    
+</lekarsi_recept>

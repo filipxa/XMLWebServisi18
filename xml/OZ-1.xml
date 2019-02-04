@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Uput_za_laboratoriju>
+   <Zdravstvena_ustanova></Zdravstvena_ustanova>
+   <Zdravstvenoj_ustanovi></Zdravstvenoj_ustanovi>
+   <Broj_zdravstvenog_kartona_protokola></Broj_zdravstvenog_kartona_protokola>
+    <Osigurano_lice>
+        <ime_prezime></ime_prezime>
+        <ime_roditelja></ime_roditelja>
+        <JMBG></JMBG>
+        <LBO></LBO>
+    </Osigurano_lice>
+    
+    <Osiguranje>
+        <Osnov></Osnov>
+        <Nosioc></Nosioc>
+        <Srodstvo></Srodstvo>
+        <Reg_broj></Reg_broj>
+    </Osiguranje>
+    <Klinicka_dijagnoza></Klinicka_dijagnoza>
+    <Kad_je_uzet_materijal></Kad_je_uzet_materijal>
+    <Ko_salje_materijal></Ko_salje_materijal>
+    <Kakav_se_pregled_trazi></Kakav_se_pregled_trazi>
+    <potpis_i_faksmil_doktora_medicine></potpis_i_faksmil_doktora_medicine>
+    
+</Uput_za_laboratoriju>

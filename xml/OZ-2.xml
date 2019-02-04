@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uput_za_ambulantno_specijalisticki_pregled>
+    <Zdravstvena_ustanova></Zdravstvena_ustanova>
+    <Zdravstvenoj_ustanovi></Zdravstvenoj_ustanovi>
+    <Broj_zdravstvenog_kartona_protokola></Broj_zdravstvenog_kartona_protokola>
+    <lekaru_specijalisti_za></lekaru_specijalisti_za>
+    <Osigurano_lice>
+        <ime_prezime></ime_prezime>
+        <ime_roditelja></ime_roditelja>
+        <JMBG></JMBG>
+        <LBO></LBO>
+        <upucuje_se_na_specijalisticki_pregled_radi></upucuje_se_na_specijalisticki_pregled_radi>
+    </Osigurano_lice>
+    
+    <potpis_i_faksmil_doktora_medicine></potpis_i_faksmil_doktora_medicine>
+    
+    <Osiguranje>
+        <Osnov></Osnov>
+        <Nosioc></Nosioc>
+        <Srodstvo></Srodstvo>
+        <Reg_broj></Reg_broj>
+    </Osiguranje>
+    <podaci_o_pregledu>
+        <zdravstvena_ustanova></zdravstvena_ustanova>
+        <prijavio_se_dana></prijavio_se_dana>
+        <pregled_zavrsen></pregled_zavrsen>
+        <broj_protokola_evidencije></broj_protokola_evidencije>
+        
+    </podaci_o_pregledu>
+    
+    <izvestaj_lekara_specijaliste>
+        <prezime_i_ime_osiguranika></prezime_i_ime_osiguranika>
+        <nasao_sam_da_boluje_od></nasao_sam_da_boluje_od>
+        <nalaz_i_misljenje></nalaz_i_misljenje>
+        <potpis_i_faksmil_doktora_medicine></potpis_i_faksmil_doktora_medicine>
+    </izvestaj_lekara_specijaliste>
+    
+
+    
+</uput_za_ambulantno_specijalisticki_pregled>
